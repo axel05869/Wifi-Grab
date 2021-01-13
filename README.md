@@ -7,5 +7,5 @@ A simple powershell script to get all the saved wifi password from a computer an
 ### Rubber Ducky Payload
  - open the text file to view the GUIDE
  
-### Rubber Ducky Payload
+### WHID Payload
  - open the text file to view the GUIDE
