@@ -1,6 +1,6 @@
 <#
 this script can be found at 
-https://github.com/axel05869/Wifi-Password-Grabber
+https://github.com/axel05869/Wifi-Grab
 
 ---------------------REFERENCE:----------------------
 https://github.com/exploitechx/wifi-password-extractor
