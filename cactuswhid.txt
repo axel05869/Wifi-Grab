@@ -1,5 +1,5 @@
 Rem:the powershell script and this payload can be found at
-Rem:https://github.com/axel05869/Wifi-Password-Grabber
+Rem:https://github.com/axel05869/Wifi-Grab
 
 Rem:--------GUIDE---------
 Rem:download the powershell script.
