@@ -4,6 +4,6 @@ A simple powershell script to get all the saved wifi password from a computer an
 ### Powershell Script
  - edit the script and provide the email to be use to send and receive the output
 
-### Rubber Ducky
-
-### Cactus WHID
+### Payloads
+ - Rubber Ducky
+ - Cactus WHID
